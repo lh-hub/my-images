@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/visualization-server:1.5.0-rc.2
+FROM gcr.io/arrikto/jupyter-kale:v0.5.0-47-g2427cc9
