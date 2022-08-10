@@ -1,1 +1,1 @@
-FROM gcr.io/spark-operator/spark-py:v3.1.1
+FROM gcr.io/mapr-252711/livy-0.7.0:202202161825P150
